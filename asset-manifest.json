@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fc615c37.css",
+    "main.js": "/static/js/main.33f66c22.js",
+    "static/js/787.a16f0a10.chunk.js": "/static/js/787.a16f0a10.chunk.js",
+    "static/media/Cryptopunks.png": "/static/media/Cryptopunks.946e10559aae2708e8ed.png",
+    "static/media/CryptoRaiders.png": "/static/media/CryptoRaiders.6e9d691912f74cb27aff.png",
+    "static/media/Pixels.png": "/static/media/Pixels.ff9be5772e1745f24269.png",
+    "static/media/Canto.png": "/static/media/Canto.2db8800ac35cd3251152.png",
+    "static/media/power9logo.png": "/static/media/power9logo.a9d0576c471f98e4b896.png",
+    "static/media/Power9.png": "/static/media/Power9.5900ad38a75ffe406f12.png",
+    "static/media/Anc2.png": "/static/media/Anc2.199056d43a4d25a369fa.png",
+    "static/media/Anc.png": "/static/media/Anc.1e9c47270e895a5b8709.png",
+    "static/media/MAYC.png": "/static/media/MAYC.0ac2796b5ddce0062342.png",
+    "static/media/AURA.png": "/static/media/AURA.b4935ff1e4e821e812e2.png",
+    "static/media/Moonbirds.png": "/static/media/Moonbirds.8b69a4ccb24af2a4a8a9.png",
+    "static/media/BAYC.png": "/static/media/BAYC.ed82085ad93c588273cf.png",
+    "static/media/Enjoyoor.png": "/static/media/Enjoyoor.2c0746371e724d02b9f8.png",
+    "static/media/Necklace2.png": "/static/media/Necklace2.8c34c2326c0a4273b930.png",
+    "static/media/Lotus2.png": "/static/media/Lotus2.bdc6f044e93a1725ed2d.png",
+    "static/media/Photo3.png": "/static/media/Photo3.6193c68ba5de4a66a97d.png",
+    "static/media/Lotusbg.png": "/static/media/Lotusbg.b1f916270873beeb507b.png",
+    "static/media/Otherside.png": "/static/media/Otherside.74426de0aa4523987afb.png",
+    "static/media/down.png": "/static/media/down.039067b6efbbb3a2d478.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.fc615c37.css.map": "/static/css/main.fc615c37.css.map",
+    "main.33f66c22.js.map": "/static/js/main.33f66c22.js.map",
+    "787.a16f0a10.chunk.js.map": "/static/js/787.a16f0a10.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc615c37.css",
+    "static/js/main.33f66c22.js"
+  ]
+}
